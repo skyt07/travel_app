@@ -7,14 +7,11 @@ _Version 1.0  |   9 October 2026_
 Project Name: SKY Travels (temp name) 
 
 Tam Members   - 
-
 - Shashi Kanth Yadav (Team Leader) 
-
 - Mohammad Arif 
-
 - Jahnavi 
-
-- Govind Maheshwari 
+- Govind Maheshwari
+- Pradeep 
 
 Course: BCA (Final Year) 
 
